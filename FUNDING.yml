@@ -1,3 +1,4 @@
 # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository.
-github: docsdevbr
-custom: https://github.com/docsdevbr/.github/blob/main/assets/img/pix.jpg
+github: [adielcristo, docsdevbr]
+custom: https://docs.dev.br/pt-br/support-us
+custom: https://docs.dev.br/en/support-us
