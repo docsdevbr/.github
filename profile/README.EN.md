@@ -24,4 +24,4 @@ You can support the project through [GitHub Sponsors][sponsor-github] or
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
 
-[sponsor-pix]: ../assets/img/pix.jpg
+[sponsor-pix]: https://docs.dev.br/pt-br/support-us

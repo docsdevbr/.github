@@ -1,4 +1,4 @@
-# docs.dev.br - Default Community Health Files
+# docs.dev.br - Default GitHub Files
 
 ## References
 

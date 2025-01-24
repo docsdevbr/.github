@@ -18,10 +18,10 @@ Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 
 [readme-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
-[readme-lang-en]: https://github.com/docsdevbr/.github/blob/main/profile/README.EN.md
+[readme-lang-en]: README.EN.md
 
-[readme-lang-pt-br]: https://github.com/docsdevbr/.github/blob/main/profile/README.md
+[readme-lang-pt-br]: README.md
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
 
-[sponsor-pix]: ../assets/img/pix.jpg
+[sponsor-pix]: https://docs.dev.br/pt-br/support-us
