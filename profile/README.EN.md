@@ -25,9 +25,9 @@ standards.
 You can support the project through [GitHub Sponsors][sponsor-github] or
 [Pix][sponsor-pix].
 
-[contributing-en]: ../CONTRIBUTING.EN.md
+[contributing-en]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.EN.md
 
-[code-of-conduct-en]: ../CODE_OF_CONDUCT.EN.md
+[code-of-conduct-en]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.EN.md
 
 [portal-link]: https://docs.dev.br
 
@@ -35,9 +35,9 @@ You can support the project through [GitHub Sponsors][sponsor-github] or
 
 [readme-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
-[readme-en]: ../profile/README.EN.md
+[readme-en]: https://github.com/docsdevbr/.github/blob/main/profile/README.EN.md
 
-[readme-pt-br]: ../profile/README.md
+[readme-pt-br]: https://github.com/docsdevbr/.github/blob/main/profile/README.md
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
 

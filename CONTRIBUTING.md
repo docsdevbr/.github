@@ -42,6 +42,6 @@ Sinta-se à vontade para abrir uma _issue_ para perguntas ou visite nosso site e
 
 [contributing-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
-[contributing-en]: CONTRIBUTING.EN.md
+[contributing-en]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.EN.md
 
-[contributing-pt-br]: CONTRIBUTING.md
+[contributing-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md

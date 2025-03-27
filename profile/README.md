@@ -26,9 +26,9 @@ padrões de comunidade.
 Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 [Pix][sponsor-pix].
 
-[contributing-pt-br]: ../CONTRIBUTING.md
+[contributing-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
 
-[code-of-conduct-pt-br]: ../CODE_OF_CONDUCT.md
+[code-of-conduct-pt-br]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.md
 
 [portal-link]: https://docs.dev.br
 

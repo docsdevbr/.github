@@ -149,8 +149,8 @@ Traduções estão disponíveis em
 
 [code-of-conduct-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
-[code-of-conduct-en]: CODE_OF_CONDUCT.EN.md
+[code-of-conduct-en]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.EN.md
 
-[code-of-conduct-pt-br]: CODE_OF_CONDUCT.md
+[code-of-conduct-pt-br]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.md
 
 [mozilla-coc]: https://github.com/mozilla/diversity
