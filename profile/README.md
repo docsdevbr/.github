@@ -1,16 +1,34 @@
 # [docs.dev.br][portal-link]
 
-[![en][readme-badge-en]][readme-lang-en]
-[![pt-br][readme-badge-pt-br]][readme-lang-pt-br]
+[![Arquivo README em inglês][readme-badge-en]][readme-en]
+[![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-pt-br]
+[![Pessoas e entidades no GitHub][sponsor-github-badge]][sponsor-github]
 
 O projeto [docs.dev.br][portal-link] disponibiliza traduções para o português
 brasileiro de documentações de ferramentas e tecnologias relacionadas ao
-desenvolvimento de _software_.
+desenvolvimento de _software_, bem como informações sobre cursos e outros
+recursos para estudo.
+
+## Contribuindo
+
+Contribuições são bem-vindas!
+Leia nossas [Diretrizes de Contribuição][contributing-pt-br] para saber como
+você pode ajudar com traduções, revisões e melhorias.
+
+## Código de Conduta
+
+Estamos comprometidos em fornecer uma comunidade acolhedora.
+Leia nosso [Código de Conduta][code-of-conduct-pt-br] para entender nossos
+padrões de comunidade.
 
 ## Apoio
 
 Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 [Pix][sponsor-pix].
+
+[contributing-pt-br]: ../CONTRIBUTING.md
+
+[code-of-conduct-pt-br]: ../CODE_OF_CONDUCT.md
 
 [portal-link]: https://docs.dev.br
 
@@ -18,10 +36,12 @@ Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 
 [readme-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
-[readme-lang-en]: README.EN.md
+[readme-en]: README.EN.md
 
-[readme-lang-pt-br]: README.md
+[readme-pt-br]: README.md
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
+
+[sponsor-github-badge]: https://img.shields.io/github/sponsors/docsdevbr
 
 [sponsor-pix]: https://docs.dev.br/pt-br/support-us
