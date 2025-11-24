@@ -1,5 +1,7 @@
 # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository.
-github: [adielcristo, docsdevbr]
+github:
+  - docsdevbr
+  - adielcristo
 custom:
   - https://www.vakinha.com.br/vaquinha/apoie-o-docs-dev-br
   - https://pt.docs.dev.br/sponsor
