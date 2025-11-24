@@ -1,10 +1,10 @@
-# [docs.dev.br][portal-link]
+# [docs.dev.br][project-website]
 
 [![Arquivo README em inglês][readme-badge-en]][readme-en]
 [![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-pt-br]
-[![Pessoas e entidades no GitHub][sponsor-github-badge]][sponsor-github]
+[![GitHub Sponsors][github-sponsors-badge]][github-sponsors]
 
-O projeto [docs.dev.br][portal-link] disponibiliza traduções para o português
+O projeto [docs.dev.br][project-website] disponibiliza traduções para o português
 brasileiro de documentações de ferramentas e tecnologias relacionadas ao
 desenvolvimento de _software_, bem como informações sobre cursos e outros
 recursos para estudo.
@@ -23,14 +23,30 @@ padrões de comunidade.
 
 ## Apoio
 
-Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
-[Pix][sponsor-pix].
+Obrigado por usar e considerar apoiar este projeto.
+Sua ajuda mantém o projeto ativo e melhora a experiência de todas as pessoas
+que o utilizam.
+
+Se você quiser fornecer apoio recorrente, use o
+[GitHub Sponsors][github-sponsors].
+
+Prefere contribuir com Pix?
+Apoie nossa [vaquinha no Vakinha][vakinha-campaign].
+
+Doações e patrocínios apoiam a manutenção, infraestrutura, documentação,
+traduções e outros trabalhos que ajudam a sustentar o projeto.
+
+Agradecemos o seu apoio!
 
 [contributing-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
 
 [code-of-conduct-pt-br]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.md
 
-[portal-link]: https://docs.dev.br
+[github-sponsors]: https://github.com/sponsors/docsdevbr
+
+[github-sponsors-badge]: https://img.shields.io/github/sponsors/docsdevbr
+
+[project-website]: https://docs.dev.br
 
 [readme-badge-en]: https://img.shields.io/badge/lang-en-blue.svg
 
@@ -40,8 +56,6 @@ Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 
 [readme-pt-br]: README.md
 
-[sponsor-github]: https://github.com/sponsors/docsdevbr
+[support-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
 
-[sponsor-github-badge]: https://img.shields.io/github/sponsors/docsdevbr
-
-[sponsor-pix]: https://docs.dev.br/pt-br/support-us
+[vakinha-campaign]: https://www.vakinha.com.br/vaquinha/apoie-o-docs-dev-br

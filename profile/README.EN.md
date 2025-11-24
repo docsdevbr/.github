@@ -1,11 +1,11 @@
-# [docs.dev.br][portal-link]
+# [docs.dev.br][project-website]
 
 [![README file in English][readme-badge-en]][readme-en]
 [![README file in Brazilian Portuguese][readme-badge-pt-br]][readme-pt-br]
-[![GitHub Sponsors][sponsor-github-badge]][sponsor-github]
+[![GitHub Sponsors][github-sponsors-badge]][github-sponsors]
 
-The [docs.dev.br][portal-link] project provides Brazilian Portuguese
-translations of documentation on tools and technologies related to software
+The [docs.dev.br][project-website] project provides Brazilian Portuguese
+translations of documentation of tools and technologies related to software
 development, as well as information on courses and other study resources.
 
 ## Contributing
@@ -17,19 +17,34 @@ can help with translations, reviews, and improvements.
 ## Code of Conduct
 
 We are committed to providing a welcoming community.
-Please read our [Code of Conduct][code-of-conduct-en] to understand our community
-standards.
+Please read our [Code of Conduct][code-of-conduct-en] to understand our
+community standards.
 
 ## Support
 
-You can support the project through [GitHub Sponsors][sponsor-github] or
-[Pix][sponsor-pix].
+Thank you for using and considering support for this project.
+Your help keeps the project healthy and improves the experience for everyone.
+
+If you'd like to provide recurring support, consider
+[GitHub Sponsors][github-sponsors].
+
+Prefer a Pix contribution?
+Support our [crowdfunding campaign at Vakinha][vakinha-campaign].
+
+Donations and sponsorships support maintenance, infrastructure, documentation,
+translations, and paid work that helps sustain the project.
+
+Thank you for your support!
 
 [contributing-en]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.EN.md
 
 [code-of-conduct-en]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.EN.md
 
-[portal-link]: https://docs.dev.br
+[github-sponsors]: https://github.com/sponsors/docsdevbr
+
+[github-sponsors-badge]: https://img.shields.io/github/sponsors/docsdevbr
+
+[project-website]: https://docs.dev.br
 
 [readme-badge-en]: https://img.shields.io/badge/lang-en-blue.svg
 
@@ -39,8 +54,4 @@ You can support the project through [GitHub Sponsors][sponsor-github] or
 
 [readme-pt-br]: https://github.com/docsdevbr/.github/blob/main/profile/README.md
 
-[sponsor-github]: https://github.com/sponsors/docsdevbr
-
-[sponsor-github-badge]: https://img.shields.io/github/sponsors/docsdevbr
-
-[sponsor-pix]: https://docs.dev.br/pt-br/support-us
+[vakinha-campaign]: https://www.vakinha.com.br/vaquinha/apoie-o-docs-dev-br

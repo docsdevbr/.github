@@ -3,7 +3,8 @@
 [![CONTRIBUTING file in English][contributing-badge-en]][contributing-en]
 [![CONTRIBUTING file in Brazilian Portuguese][contributing-badge-pt-br]][contributing-pt-br]
 
-Thank you for considering contributing to docs.dev.br! This document provides guidelines for contributing to our project.
+Thank you for considering contributing to docs.dev.br!
+This document provides guidelines for contributing to our project.
 
 ## Ways to Contribute
 
@@ -36,7 +37,8 @@ Thank you for considering contributing to docs.dev.br! This document provides gu
 
 ## Questions?
 
-Feel free to open an issue for questions or visit our website at [docs.dev.br](https://docs.dev.br).
+Feel free to open an issue for questions or visit our website at
+[docs.dev.br][project-website].
 
 [contributing-badge-en]: https://img.shields.io/badge/lang-en-blue.svg
 
@@ -45,3 +47,5 @@ Feel free to open an issue for questions or visit our website at [docs.dev.br](h
 [contributing-en]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.EN.md
 
 [contributing-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
+
+[project-website]: https://en.docs.dev.br
