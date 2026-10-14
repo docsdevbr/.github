@@ -78,8 +78,8 @@ Thank you for your support!
 
 [project-website]: https://docs.dev.br
 
-[readme-en]: https://github.com/docsdevbr/.github/blob/main/README.EN.md
+[readme-en]: https://github.com/docsdevbr/.github/blob/main/profile/README.EN.md
 
-[readme-pt-br]: https://github.com/docsdevbr/.github/blob/main/README.md
+[readme-pt-br]: https://github.com/docsdevbr/.github/blob/main/profile/README.md
 
 [sponsor-page]: https://en.docs.dev.br/sponsor.html
