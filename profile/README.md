@@ -2,8 +2,8 @@
 
 [![Arquivo README em inglês][badge-readme-en]][readme-en]
 [![Arquivo README em português brasileiro][badge-readme-pt-br]][readme-pt-br]
-[![Liberapay patrons][badge-liberapay]][profile-liberapay]
-[![GitHub Sponsors][badge-github-sponsors]][profile-github-sponsors]
+[![Pessoas apoiadoras no Liberapay][badge-liberapay]][profile-liberapay]
+[![Pessoas patrocinadoras do GitHub][badge-github-sponsors]][profile-github-sponsors]
 
 O projeto [docs.dev.br][project-website] reúne documentação técnica acessível
 sobre diversas ferramentas e tecnologias de software em uma interface rápida,

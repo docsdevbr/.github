@@ -3,7 +3,7 @@
 [![README file in English][badge-readme-en]][readme-en]
 [![README file in Brazilian Portuguese][badge-readme-pt-br]][readme-pt-br]
 [![Liberapay patrons][badge-liberapay]][profile-liberapay]
-[![GitHub Sponsors][badge-github-sponsors]][profile-github-sponsors]
+[![GitHub sponsors][badge-github-sponsors]][profile-github-sponsors]
 
 The [docs.dev.br][project-website] project combines accessible technical
 documentation for various software tools and technologies into a fast,
