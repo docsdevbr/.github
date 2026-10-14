@@ -1,7 +1,12 @@
 # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository.
+
+liberapay:
+  - docsdev
+
 github:
   - docsdevbr
   - adielcristo
+
 custom:
   - https://en.docs.dev.br/sponsor.html
   - https://pt.docs.dev.br/sponsor.html

@@ -1,13 +1,14 @@
 # [docs.dev.br][project-website]
 
-[![Arquivo README em inglês][readme-badge-en]][readme-en]
-[![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-pt-br]
-[![GitHub Sponsors][github-sponsors-badge]][github-sponsors]
+[![Arquivo README em inglês][badge-readme-en]][readme-en]
+[![Arquivo README em português brasileiro][badge-readme-pt-br]][readme-pt-br]
+[![Liberapay patrons][badge-liberapay]][profile-liberapay]
+[![GitHub Sponsors][badge-github-sponsors]][profile-github-sponsors]
 
-O projeto [docs.dev.br][project-website] disponibiliza traduções para o português
-brasileiro de documentações de ferramentas e tecnologias relacionadas ao
-desenvolvimento de _software_, bem como informações sobre cursos e outros
-recursos para estudo.
+O projeto [docs.dev.br][project-website] reúne documentação técnica acessível
+sobre diversas ferramentas e tecnologias de software em uma interface rápida,
+organizada e com recursos de busca, incluindo traduções para o português
+brasileiro.
 
 ## Contribuindo
 
@@ -23,39 +24,61 @@ padrões de comunidade.
 
 ## Apoio
 
-Obrigado por usar e considerar apoiar este projeto.
-Sua ajuda mantém o projeto ativo e melhora a experiência de todas as pessoas
-que o utilizam.
+Obrigado por considerar apoiar este projeto!
 
-Se você quiser fornecer apoio recorrente, use o
-[GitHub Sponsors][github-sponsors].
+Manter uma documentação abrangente, traduções localizadas e ferramentas para
+pessoas desenvolvedoras é um esforço contínuo.
+Seu apoio cobre diretamente os custos de infraestrutura, a manutenção do domínio
+e a criação de ferramentas automatizadas que mantêm esses recursos rápidos,
+confiáveis e gratuitos para todas as pessoas.
 
-Prefere contribuir com Pix?
-Apoie nossa [vaquinha no Vakinha][vakinha-campaign].
+Cada contribuição, independentemente do valor, garante que o conhecimento
+permaneça aberto, gratuito e acessível a todas as pessoas.
 
-Doações e patrocínios apoiam a manutenção, infraestrutura, documentação,
-traduções e outros trabalhos que ajudam a sustentar o projeto.
+### Como seu apoio ajuda
 
-Agradecemos o seu apoio!
+- **Infraestrutura e hospedagem:** mantém a documentação rápida, confiável e
+  disponível 24 horas por dia, 7 dias por semana.
+- **Ferramentas da comunidade e automação:** impulsiona fluxos de tradução que
+  mantêm a documentação local sincronizada com as versões oficiais.
+- **Capacitação de pessoas desenvolvedoras:** reduz barreiras de entrada para
+  falantes do português em toda a comunidade.
+- **Sustentabilidade do projeto:** financia a manutenção, as traduções contínuas
+  e o trabalho dedicado para manter o projeto saudável.
+
+### Formas de contribuir
+
+Visite nossa [Página de apoio][sponsor-page] para obter detalhes completos ou
+escolha sua plataforma preferida abaixo:
+
+- **Apoio recorrente:** apoie-nos no [Liberapay][profile-liberapay] ou
+  [GitHub Sponsors][profile-github-sponsors].
+- **Contribuição única:** Faça uma contribuição direta via [Pix][pix-qrcode].
+
+Obrigado pelo seu apoio!
+
+[badge-github-sponsors]: https://img.shields.io/github/sponsors/docsdevbr
+
+[badge-liberapay]: https://img.shields.io/liberapay/patrons/docsdev
+
+[badge-readme-en]: https://img.shields.io/badge/lang-en-blue.svg
+
+[badge-readme-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
 
 [contributing-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
 
 [code-of-conduct-pt-br]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.md
 
-[github-sponsors]: https://github.com/sponsors/docsdevbr
+[pix-qrcode]: https://media.docs.dev.br/d/docs.dev.br/sponsor/pix-qrcode.png
 
-[github-sponsors-badge]: https://img.shields.io/github/sponsors/docsdevbr
+[profile-github-sponsors]: https://github.com/sponsors/docsdevbr
+
+[profile-liberapay]: https://liberapay.com/docsdev/
 
 [project-website]: https://docs.dev.br
 
-[readme-badge-en]: https://img.shields.io/badge/lang-en-blue.svg
+[readme-en]: https://github.com/docsdevbr/.github/blob/main/README.EN.md
 
-[readme-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
+[readme-pt-br]: https://github.com/docsdevbr/.github/blob/main/README.md
 
-[readme-en]: README.EN.md
-
-[readme-pt-br]: README.md
-
-[support-pt-br]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
-
-[vakinha-campaign]: https://www.vakinha.com.br/vaquinha/apoie-o-docs-dev-br
+[sponsor-page]: https://pt.docs.dev.br/sponsor.html
